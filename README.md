@@ -59,7 +59,7 @@ Click Create Pull Request.
 
 8. Review & Merge
 
-Wait for the Team Leader to review your PR.
+Wait for the Vedant to review your PR.
 Once approved, it will be merged into main.
 
 
@@ -76,6 +76,6 @@ After merge, always sync your local repo:
 
 Don’t push directly to main. Always use a feature branch.
 Use meaningful commit messages.
-If you face merge conflicts, ask the leader for guidance.
+If you face merge conflicts, ask AI.
 
 ✨ Congratulations! You’ve learned the basics of GitHub Collaboration 🚀
