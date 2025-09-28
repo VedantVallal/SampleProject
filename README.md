@@ -11,19 +11,20 @@ Check your email or GitHub notifications.
 Accept the invitation to join this repository as a Collaborator.
 
 2. Clone Repository
+   
 git clone <repo-link>
 cd team-portfolio
 
-3. Create Your Branch
+4. Create Your Branch
 
 👉 Always work in a separate branch (not directly in main).
 
-git checkout -b feature/<your-name>
+    git checkout -b feature/<your-name>
 
 
 Example:
 
-git checkout -b feature/vedant
+     git checkout -b feature/vedant
 
 4. Add Your Profile
 
